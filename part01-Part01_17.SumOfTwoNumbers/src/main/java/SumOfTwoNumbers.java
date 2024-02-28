@@ -7,6 +7,6 @@ public class SumOfTwoNumbers {
         Scanner scanner = new Scanner(System.in);
 
         // Write your program here
-
+        
     }
 }
